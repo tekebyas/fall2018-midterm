@@ -20,7 +20,7 @@ int main()
     cout << "\n--- Case of letter DOES matter ---\n\n" << endl;
 
     string input = get_string("Please enter a string: ");
-    char find = char_to_find("Please enter the character to find: ");
+    char find = char_to_find("Please enter a character to find in the string: ");
 
     cout << endl;
 
